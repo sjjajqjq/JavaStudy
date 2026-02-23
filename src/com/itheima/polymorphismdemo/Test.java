@@ -7,14 +7,6 @@ public class Test {
         p.keepPet(d);
         Cat c = new Cat(1, "白");
         p.keepPet(c);
-
-
-
-
-
-
-
-
-
+        System.out.println("第二个程序员");
     }
 }
